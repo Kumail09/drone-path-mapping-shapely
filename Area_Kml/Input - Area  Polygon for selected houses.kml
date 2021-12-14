@@ -1,0 +1,84 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2" xmlns:gx="http://www.google.com/kml/ext/2.2" xmlns:kml="http://www.opengis.net/kml/2.2" xmlns:atom="http://www.w3.org/2005/Atom">
+<Document>
+	<name>La Jolla</name>
+	<gx:CascadingStyle kml:id="__managed_style_1C817A6D6F195803AE85">
+		<Style>
+			<IconStyle>
+				<scale>1.2</scale>
+				<Icon>
+					<href>https://earth.google.com/earth/rpc/cc/icon?color=1976d2&amp;id=2000&amp;scale=4</href>
+				</Icon>
+				<hotSpot x="64" y="128" xunits="pixels" yunits="insetPixels"/>
+			</IconStyle>
+			<LabelStyle>
+			</LabelStyle>
+			<LineStyle>
+				<color>ff2dc0fb</color>
+				<width>6</width>
+			</LineStyle>
+			<PolyStyle>
+				<color>40ffffff</color>
+			</PolyStyle>
+			<BalloonStyle>
+				<displayMode>hide</displayMode>
+			</BalloonStyle>
+		</Style>
+	</gx:CascadingStyle>
+	<gx:CascadingStyle kml:id="__managed_style_0C544117E9195803AE85">
+		<Style>
+			<IconStyle>
+				<Icon>
+					<href>https://earth.google.com/earth/rpc/cc/icon?color=1976d2&amp;id=2000&amp;scale=4</href>
+				</Icon>
+				<hotSpot x="64" y="128" xunits="pixels" yunits="insetPixels"/>
+			</IconStyle>
+			<LabelStyle>
+			</LabelStyle>
+			<LineStyle>
+				<color>ff2dc0fb</color>
+				<width>4</width>
+			</LineStyle>
+			<PolyStyle>
+				<color>40ffffff</color>
+			</PolyStyle>
+			<BalloonStyle>
+				<displayMode>hide</displayMode>
+			</BalloonStyle>
+		</Style>
+	</gx:CascadingStyle>
+	<StyleMap id="__managed_style_0C119D9995195803AE84">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#__managed_style_0C544117E9195803AE85</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#__managed_style_1C817A6D6F195803AE85</styleUrl>
+		</Pair>
+	</StyleMap>
+	<Placemark id="096E516A9A195803AE84">
+		<name>LaJolla 2</name>
+		<LookAt>
+			<longitude>-117.2053973349242</longitude>
+			<latitude>32.86912231547532</latitude>
+			<altitude>99.39109557889326</altitude>
+			<heading>0</heading>
+			<tilt>0</tilt>
+			<gx:fovy>35</gx:fovy>
+			<range>1787.074495787966</range>
+			<altitudeMode>absolute</altitudeMode>
+		</LookAt>
+		<styleUrl>#__managed_style_0C119D9995195803AE84</styleUrl>
+		<Polygon>
+			<outerBoundaryIs>
+				<LinearRing>
+					<coordinates>
+						-117.2076517813573,32.8667071662333,81.20746007856675 -117.2073267371744,32.86716478620592,81.449527353504 -117.2069006642127,32.86837908624528,88.42114658405167 -117.2070568391802,32.87030229993324,104.678702850153 -117.2073437632417,32.87082817641766,109.6027246579788 -117.2089439353755,32.87047769262843,113.4807842620569 -117.2099675106144,32.86993574428266,109.4770011823837 -117.2099601516532,32.8693285297038,101.3218560572559 -117.2090969445464,32.86811575696149,89.21454345378092 -117.2081000591517,32.86718107005815,81.68563384190062 -117.2076517813573,32.8667071662333,81.20746007856675 
+					</coordinates>
+				</LinearRing>
+			</outerBoundaryIs>
+		</Polygon>
+	</Placemark>
+</Document>
+</kml>
